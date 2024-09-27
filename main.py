@@ -250,4 +250,4 @@ def test():
         return 'My db is not Connected'
 
 
-app.run(debug=True)    
+# app.run(debug=True)    
